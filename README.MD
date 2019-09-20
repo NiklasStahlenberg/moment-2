@@ -2,10 +2,7 @@
 
 ### Vad är automatiseringens syfte?
 
-    Syftet med automatisering är att man kan jobba i ett avancerat filsystem med flera filer, 
-    tex olika css-filer för olika skärmstorlekar, man kan sedan slå ihop dessa och trycka ihop
-    all text i dem för att få ner dem i storlek. Det finns också möjlighet att komprimera grafiska
-    filer, det går också att konvertera till exempel SASS-filer till vanliga css-filer. 
+    Syftet med automatisering är att man kan jobba i ett avancerat filsystem med flera filer,tex olika css-filer för olika skärmstorlekar, man kan sedan slå ihop dessa och trycka ihop all text i dem för att få ner dem i storlek. Det finns också möjlighet att komprimera grafiska filer, det går också att konvertera till exempel SASS-filer till vanliga css-filer. 
 
 ### Vilka paket och verktyg har jag använt?
 
